@@ -6,6 +6,7 @@
     height: 90vh;
     justify-content: center;
     align-items: middle;
+    background-image: linear-gradient(to right, rgb(0, 128, 128), rgb(255, 0, 0));
 }
 
 /* clockbox container*/
